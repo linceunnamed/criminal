@@ -16,8 +16,8 @@ app.post('/login', (req, res) => {
 
     // Simulação de banco de dados
     const users = [
-        { username: '1', password: '1' }
-        
+        { username: 'lince', password: 'kauan2708' }
+        { username: 'admin', password: '7' }
     ];
 
     // Verifica credenciais
